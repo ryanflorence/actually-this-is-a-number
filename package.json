@@ -1,0 +1,11 @@
+{
+  "name": "actually-this-is-a-number",
+  "version": "1.0.0",
+  "description": "write numbers so you can read them later",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Ryan Florence",
+  "license": "MIT"
+}
